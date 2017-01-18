@@ -2,4 +2,4 @@
 
 auto swap view
 
-[![](https://img.youtube.com/vi/9IuRdIXsOVg/0.jpg)](https://youtu.be/9IuRdIXsOVg)
+![](https://github.com/jenny0006132/JYDragDropView/blob/master/dragdrop.gif?raw=true)
