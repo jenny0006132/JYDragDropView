@@ -12,6 +12,7 @@
 		FACC270D1E2FA45500E6498C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FACC270B1E2FA45500E6498C /* Main.storyboard */; };
 		FACC270F1E2FA45600E6498C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FACC270E1E2FA45600E6498C /* Assets.xcassets */; };
 		FACC27121E2FA45600E6498C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FACC27101E2FA45600E6498C /* LaunchScreen.storyboard */; };
+		FACC271A1E2FA46200E6498C /* JYDragDropView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FACC27191E2FA46200E6498C /* JYDragDropView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FACC270E1E2FA45600E6498C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FACC27111E2FA45600E6498C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FACC27131E2FA45600E6498C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FACC27191E2FA46200E6498C /* JYDragDropView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JYDragDropView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				FACC27071E2FA45500E6498C /* AppDelegate.swift */,
 				FACC27091E2FA45500E6498C /* ViewController.swift */,
+				FACC27191E2FA46200E6498C /* JYDragDropView.swift */,
 				FACC270B1E2FA45500E6498C /* Main.storyboard */,
 				FACC270E1E2FA45600E6498C /* Assets.xcassets */,
 				FACC27101E2FA45600E6498C /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FACC270A1E2FA45500E6498C /* ViewController.swift in Sources */,
+				FACC271A1E2FA46200E6498C /* JYDragDropView.swift in Sources */,
 				FACC27081E2FA45500E6498C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

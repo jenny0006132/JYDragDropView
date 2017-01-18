@@ -12,7 +12,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        let dragDropView = JYDragDropView(frame: view.frame, viewCount: 5)
+        view.addSubview(dragDropView)
     }
 
     override func didReceiveMemoryWarning() {
